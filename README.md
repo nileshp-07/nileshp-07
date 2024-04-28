@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [E-commerce project](https://github.com/nileshp-07/E-Commerce-Platform)
 
-- 🌱 I’m currently learning **Advance MERN stack**
+- 🌱 I’m currently learning **typeScript and NextJs**
 
 - 👯 I’m looking to collaborate on **Open Source Project**
 
