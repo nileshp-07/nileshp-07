@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nileshp-07&label=Profile%20views&color=0e75b6&style=flat" alt="nileshp-07" /> </p>
 
 
-- 🔭 I’m currently working on [E-commerce project](https://github.com/nileshp-07/E-Commerce-Platform)
+- 🔭 I’m currently working on [Realtime Chat Application](https://github.com/nileshp-07/Realtime-Chat-Application)
 
 - 🌱 I’m currently learning **typeScript and NextJs**
 
