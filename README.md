@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nileshp-07&label=Profile%20views&color=0e75b6&style=flat" alt="nileshp-07" /> </p>
 
 
-- 🔭 I’m currently working on [Realtime Collaborative Development Environment](https://github.com/nileshp-07/Realtime-Chat-Application)
+- 🔭 I’m currently working on **Realtime Collaborative Development Environment**
 
 - 🌱 I’m currently learning **typeScript and NextJs**
 
@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **patidarnilesh8120@gmail.com**
 
-- 📄 Know about my experiences [RESUME](https://drive.google.com/file/d/1tmG_0k2oDktbWlCnfRztSBPcxL0zNKhW/view)
+- 📄 Know about my experiences [RESUME](https://drive.google.com/file/d/1KhXJAJG7CEj5yI5dZ13VqrMHRBpymFa6/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
